@@ -64,7 +64,7 @@ if __name__ == "__main__":
         name1,name2 = input("Name1:"), input("Name2:")
         isOK, res = Compare(name1, name2)
     if isOK:
-        res.status=200
+        res['status']=200
         print(json.dumps(res))
     else:
         print('{"status":500,"error": "error occured"}')
