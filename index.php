@@ -76,7 +76,7 @@
                   <footer>
                      <ul class="icons">
                         <li><a href="http://tioj.infor.org/" class="fa-globe" target="_blank">TIOJ</a></li>
-                        <li><a href="#" class="fa-github">GitHub</a></li>
+                        <li><a href="https://github.com/oToToT/TIOJ_Compare" class="fa-github">GitHub</a></li>
                      </ul>
                   </footer>
                </section>
